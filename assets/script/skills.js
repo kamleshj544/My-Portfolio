@@ -1,7 +1,7 @@
 const skills = [
     {
         "id": 1,
-        "name": "JAVA",
+        "name": "PYTHON",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     },
     {
