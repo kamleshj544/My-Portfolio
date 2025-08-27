@@ -1,7 +1,7 @@
-Project Overview
+Project Overview:
 Jarvis Voice Assistant is a smart web-based assistant that leverages speech recognition, natural language processing, and dynamic user interface components. Developed using React, JavaScript, HTML, and CSS, it provides hands-free interactions, answering queries and executing basic commands efficiently.
 
-Features
+Features:
 Voice Command Recognition: Users can interact using voice commands for quick responses and actions.
 
 React-Based UI: The project uses React for building reusable components and managing app state.
@@ -10,7 +10,7 @@ Accessible Design: Ensures all users can access core functions, including fallba
 
 Customizable Components: Easily extend or modify functionalities by updating separate files for components like Header.js, VoiceButton.js, and SettingsPanel.js.
 
-Folder Structure
+Folder Structure:
 Folder/File	Description
 public/index.html	Main HTML template and app mounting point.
 src/components	React components for core features and UI.
